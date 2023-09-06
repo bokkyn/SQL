@@ -32,7 +32,6 @@ Here's what you'll find in this repository:
 
 - **SQL Scripts**: A collection of SQL scripts organized by topic and complexity.
 - **Projects**: SQL-based projects that demonstrate practical applications of SQL concepts.
-- **Notes**: My personal notes and documentation on SQL best practices and tips.
 - **Data Samples**: Sample datasets used in my SQL exercises and projects.
 
 Feel free to explore the repository and use these resources to enhance your own SQL knowledge.
